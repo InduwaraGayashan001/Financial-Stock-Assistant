@@ -1,0 +1,8 @@
+openai
+ib_insync
+pandas
+llama-index==0.9.39
+jinja2
+python-dotenv
+streamlit
+langchain-community
