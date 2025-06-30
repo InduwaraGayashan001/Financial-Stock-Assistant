@@ -1,8 +1,11 @@
-openai
-ib_insync
-pandas
-llama-index==0.9.39
-jinja2
-python-dotenv
 streamlit
+python-dotenv
+openai
+
+langchain
 langchain-community
+beautifulsoup4
+lxml
+faiss-cpu
+tiktoken
+langchain-openai
