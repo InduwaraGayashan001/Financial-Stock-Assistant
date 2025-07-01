@@ -110,3 +110,7 @@ The application will open in your default web browser at `http://localhost:8501`
 
 4. Review the side-by-side market position analysis
 ![resultmul](resources/resultmul.png)
+
+---
+
+**Note**: This project is for educational purposes only. Not intended for actual financial investment decisions.
