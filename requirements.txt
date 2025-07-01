@@ -1,11 +1,10 @@
 streamlit
 python-dotenv
 openai
-
+tiktoken
 langchain
 langchain-community
+langchain-openai
 beautifulsoup4
 lxml
-faiss-cpu
-tiktoken
-langchain-openai
+chromadb
